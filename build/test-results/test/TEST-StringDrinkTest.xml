@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StringDrinkTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-12-15T17:44:13" hostname="CARLOTASILVA" time="0.082">
+  <properties/>
+  <testcase name="stringReplacer()" classname="StringDrinkTest" time="0.057"/>
+  <testcase name="transformUndo()" classname="StringDrinkTest" time="0.003"/>
+  <testcase name="stringDrink()" classname="StringDrinkTest" time="0.001"/>
+  <testcase name="stringInverter()" classname="StringDrinkTest" time="0.002"/>
+  <testcase name="transformerGroup()" classname="StringDrinkTest" time="0.004"/>
+  <testcase name="transformerComposite()" classname="StringDrinkTest" time="0.004"/>
+  <testcase name="stringRecipe()" classname="StringDrinkTest" time="0.002"/>
+  <testcase name="stringCaseChanger()" classname="StringDrinkTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
